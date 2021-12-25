@@ -1,0 +1,17 @@
+pint function jjj(pint f){
+ new pint gk;
+ new pint g = 890;
+ new pstring l = 'sdff';
+ new pbool ggg = true;
+ if(true ~ true){
+ output 'yes';
+ }
+ output ggg;
+ return 7;
+}
+main{
+new pint y = 7;
+y = jjj(y);
+output y;
+return 0;
+}

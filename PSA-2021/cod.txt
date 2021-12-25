@@ -1,0 +1,61 @@
+pint function arefm(pint x, pint y) 
+{ 
+ output 'Arefmetic:';
+ new pint za;
+ new pint zb;
+ new pint zc;
+ new pint zk;
+ new pint g;
+ new pint z; 
+ za = -897;
+ zb = 3010o;
+ zc = 17;
+ zk = (za % zc) * zb;
+ output zk;
+ z = x - y - -10;
+ output z;
+ z= (y*45)+234/(x*(x+y)) * 34/45;
+ zk = za;
+ output zk;
+
+ output z;
+ output 'If-Else:';
+ if (10 # zb) 
+ {
+	output 'zb more then zc';
+ }else
+ {
+    output 'zc more then zb';
+ }
+ return z; 
+}
+new pint function strln(pstring p);
+main 
+{ 
+ new pint xa = 45; 
+ new pint ya = 25; 
+ new pint za;
+ new pint df = 7;
+ new pint dc;
+ new pstring ca; 
+ new pstring cb; 
+ new pstring cc; 
+ za = arefm(xa,df); 
+ output za;
+
+ ca = 'bless'; 
+ cb = '1234567890'; 
+
+ output ca;
+ output cb;
+ output df;
+ dc=strln(cb) + 5;
+ output dc;
+ if (xa > ya) 
+ {
+  new pint x;
+  x = 1;
+ }
+ return 0; 
+}
+

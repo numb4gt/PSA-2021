@@ -1,0 +1,111 @@
+------ Протокол ------
+Дата: 21.12.2021 14:39:11  
+
+------ Параметры ------
+-in:cod.txt
+-out:asm.txt
+-log:log.txt
+-mfst:mfst.txt
+
+------ Исходные данные ------
+Количество символов: 748
+Проигнорировано: 49
+Количество строк: 63
+
+1)Лексический анализ выполнен
+2)Синтаксический анализ выполнен
+3)Семантический анализ выполнен
+4)Польская нотация выполнена
+
+                        Таблица идентификаторов
+
+    i       Имя       Тип      Тип ID       Область          Расп. в LT
+    0     arefm     pint         f          global              2
+    1         x     pint         p           arefm              5
+    2         y     pint         p           arefm              8
+    3        L0     pstr         l           arefm             12
+    4        za     pint         v           arefm             16
+    5        zb     pint         v           arefm             20
+    6        zc     pint         v           arefm             24
+    7        zk     pint         v           arefm             28
+    8         g     pint         v           arefm             32
+    9         z     pint         v           arefm             36
+   10        L1     pint         l           arefm             40
+   11        L2     pint         l           arefm             44
+   12        L3     pint         l           arefm             48
+   13        L4     pint         l           arefm             69
+   14        L5     pint         l           arefm             79
+   15        L6     pint         l           arefm             82
+   16        L7     pint         l           arefm            100
+   17        L8     pint         l           arefm            102
+   18        L9     pstr         l           arefm            115
+   19       L10     pint         l           arefm            119
+   20       L11     pstr         l         scope_0            125
+   21       L12     pstr         l         scope_1            131
+   22     strln     pint         f          global            141
+   23         p     pstr         p           strln            144
+   24      main     pint         f          global            148
+   25        xa     pint         v            main            151
+   26       L13     pint         l            main            153
+   27        ya     pint         v            main            157
+   28       L14     pint         l            main            159
+   29        za     pint         v            main            163
+   30        df     pint         v            main            167
+   31       L15     pint         l            main            169
+   32        dc     pint         v            main            173
+   33        ca     pstr         v            main            177
+   34        cb     pstr         v            main            181
+   35        cc     pstr         v            main            185
+   36       L16     pstr         l            main            201
+   37       L17     pstr         l            main            205
+   38       L18     pint         l            main            223
+   39         x     pint         v         scope_2            237
+   40       L19     pint         l         scope_2            241
+   41       L20     pint         l            main            245
+
+                             Таблица лексем
+tfi<0>(ti<1>,ti<2>){pl<3>;
+dti<4>;
+dti<5>;
+dti<6>;
+dti<7>;
+dti<8>;
+dti<9>;
+i<4>=l<10>;
+i<5>=l<11>;
+i<6>=l<12>;
+i<7>=i<4>i<6>%i<5>*;
+pi<7>;
+i<9>=i<1>i<2>-l<13>-;
+pi<9>;
+i<9>=i<2>l<14>*l<15>i<1>i<1>i<2>+*/i<1>i<2>+/l<16>*l<17>/+;
+i<7>=i<4>;
+pi<7>;
+pi<9>;
+pl<18>;
+e(l<19>#i<5>){pl<20>;
+}y{pl<21>;
+}ri<9>;
+}dtfi<22>(ti<23>);
+m{dti<25>=l<26>;
+dti<27>=l<28>;
+dti<29>;
+dti<30>=l<31>;
+dti<32>;
+dti<33>;
+dti<34>;
+dti<35>;
+i<29>=i<25>i<30>@<0>2;
+pi<29>;
+i<33>=l<36>;
+i<34>=l<37>;
+pi<33>;
+pi<34>;
+pi<30>;
+i<32>=i<34>@<22>1l<38>+;
+pi<32>;
+e(i<25>>i<27>){dti<39>;
+i<39>=l<40>;
+}rl<41>;
+}
+5)Генерация кода выполнена

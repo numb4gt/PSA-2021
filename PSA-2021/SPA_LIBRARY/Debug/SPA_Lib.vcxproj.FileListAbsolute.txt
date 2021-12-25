@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\Новая папка (4)\MMA-2021\Debug\MMA_Lib.pdb
+C:\Users\USER\Desktop\Новая папка (4)\MMA-2021\MMA_Lib\Debug\MMA_Lib.pdb
+C:\Users\USER\Desktop\ВУЗ\2 курс\ЯП\Курсовой\PSA-2021\SPA-2021\Debug\SPA_Lib.pdb
+C:\Users\USER\Desktop\ВУЗ\2 курс\ЯП\Курсовой\PSA-2021\SPA-2021\SPA_LIBRARY\Debug\SPA_Lib.pdb
+C:\Users\USER\Desktop\ВУЗ\2 курс\ЯП\Курсовой\10-ка\MMA-2021\Debug\SPA_Lib.pdb
+C:\Users\USER\Desktop\ВУЗ\2 курс\ЯП\Курсовой\10-ка\MMA-2021\SPA_LIBRARY\Debug\SPA_Lib.pdb
+C:\Users\USER\Desktop\ВУЗ\2 курс\ЯП\Курсовой\10-ка\PSA-2021\Debug\SPA_Lib.pdb
+C:\Users\USER\Desktop\ВУЗ\2 курс\ЯП\Курсовой\10-ка\PSA-2021\SPA_LIBRARY\Debug\SPA_Lib.pdb
